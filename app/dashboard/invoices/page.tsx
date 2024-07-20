@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function InvoicePage() {
+export default async function InvoicePage() {
   return (
     <div>InvoicePage</div>
   )
